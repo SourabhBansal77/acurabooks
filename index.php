@@ -10,6 +10,44 @@
 				{
 					padding: 32px 13px;
 				}
+				
+				/* Certification Styles */
+				.certification-logo {
+					max-width: 100px;
+					max-height: 100px;
+					width: auto;
+					height: auto;
+					object-fit: contain;
+					transition: all 0.3s ease;
+					border-radius: 8px;
+				}
+				
+				.certification-logo:hover {
+					transform: scale(1.1);
+				}
+				
+				.certification-item {
+					padding: 15px;
+					background: #fff;
+					border-radius: 10px;
+					box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+					transition: all 0.3s ease;
+				}
+				
+				.certification-item:hover {
+					transform: translateY(-5px);
+					box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+				}
+				
+				.footer-certifications {
+					margin-top: 20px;
+				}
+				
+				.footer-certifications .certification-logo {
+					max-width: 60px;
+					max-height: 60px;
+					margin: 5px;
+				}
 		</style>
 
         <!-- main-area -->
@@ -61,6 +99,53 @@
             </section>
             <!-- slider-area-end -->
 
+            <!-- certifications-area -->
+            <section class="certifications-area pt-80 pb-80" style="background-color: #f8f9fa;">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="section-title-two text-center mb-50 tg-heading-subheading animation-style3">
+                                <span class="sub-title">Our Certifications</span>
+                                <h2 class="title tg-element-title">Trusted & Certified Partners</h2>
+                                <p>We are certified professionals with expertise in leading accounting software and platforms</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center align-items-center">
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
+                            <div class="certification-item text-center">
+                                <img src="assets/img/images/Intuit Certified Level 1.jpeg" alt="Intuit Certified Level 1" class="certification-logo">
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
+                            <div class="certification-item text-center">
+                                <img src="assets/img/images/Intuit Cetified.jpeg" alt="Intuit Certified" class="certification-logo">
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
+                            <div class="certification-item text-center">
+                                <img src="assets/img/images/Intuit Trained.jpeg" alt="Intuit Trained Bookkeeper" class="certification-logo">
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
+                            <div class="certification-item text-center">
+                                <img src="assets/img/images/PowerBI.jpeg" alt="Power BI Certified" class="certification-logo">
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
+                            <div class="certification-item text-center">
+                                <img src="assets/img/images/Sage.jpeg" alt="Sage Certified" class="certification-logo">
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
+                            <div class="certification-item text-center">
+                                <img src="assets/img/images/Xero.jpeg" alt="Xero Certified" class="certification-logo">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- certifications-area-end -->
 
             <!-- features-area -->
             <section class="features-area-two pt-80">

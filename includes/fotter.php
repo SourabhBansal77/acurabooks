@@ -109,6 +109,28 @@
                         </div>
                     </div>
                 </div>
+                
+                <!-- Footer Certifications -->
+                <div class="footer-certifications-area" style="background-color: rgba(255,255,255,0.1); padding: 30px 0;">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="footer-certifications text-center">
+                                    <h5 style="color: #fff; margin-bottom: 20px; font-size: 18px;">Our Certifications & Partnerships</h5>
+                                    <div class="d-flex justify-content-center align-items-center flex-wrap">
+                                        <img src="assets/img/images/Intuit Certified Level 1.jpeg" alt="Intuit Certified Level 1" class="certification-logo">
+                                        <img src="assets/img/images/Intuit Cetified.jpeg" alt="Intuit Certified" class="certification-logo">
+                                        <img src="assets/img/images/Intuit Trained.jpeg" alt="Intuit Trained Bookkeeper" class="certification-logo">
+                                        <img src="assets/img/images/PowerBI.jpeg" alt="Power BI Certified" class="certification-logo">
+                                        <img src="assets/img/images/Sage.jpeg" alt="Sage Certified" class="certification-logo">
+                                        <img src="assets/img/images/Xero.jpeg" alt="Xero Certified" class="certification-logo">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="footer-bottom-two">
                     <div class="container">
                         <div class="row">
