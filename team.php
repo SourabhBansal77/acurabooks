@@ -74,17 +74,6 @@
                                 </div>
                             </div>
                         </div>
-						  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-9">
-                            <div class="team-item">
-                                <div class="team-thumb">
-                                    <img src="assets/img/team/team_img04.jpg?id=sdf" alt="">
-                                </div>
-                                <div class="team-content">
-                                    <h2 class="title"><a href="partners.php?teamid=2">Atul Gupta</a></h2>
-                                    <span>Managing Partner</span>
-                                </div>
-                            </div>
-                        </div>
 						 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-9">
                             <div class="team-item">
                                 <div class="team-thumb">

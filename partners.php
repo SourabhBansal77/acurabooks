@@ -58,13 +58,6 @@
 										$paragraph = "<p>Mahendra Kumar Gupta is a Chartered Accountant by profession and is the senior partner of Acura books. He has more than 30 years of experience in all phases of client service and accounting practices. He has served as the responsible partner in a variety of industries, including many which are deeply involved in multinational operations. He has lectured on accounting and management topics for various organizations in India.<br/>He has overseen every aspect of the firm’s business and is a member of the firm’s Executive management team where he works closely with other members of the firm’s Executive management team to develop strategy and set the direction for the firm’s future sustainability, growth and profitability.</p>";
 										$imagepath = "assets/img/team/default.jpg";
 									}
-									else if($teamid=="2")
-									{
-										$name = "Atul Gupta";
-										$desi = "Managing Partner";
-										$paragraph = "<p>He is the founder and managing partner of the firm. He is a professional graduated from the Institute of Chartered Accountants of India. He is also graduated in B. Com (Hons). With more than 5 years of vivid practical experience in the fields of International Accounting, Direct Taxes and Financial and Cost Analysis. , he works with clients to transform their business resulting in revenue growth, improved profitability, and risk reduction through optimizing organizations’ operational infrastructure. He oversees a seasoned team of talented professionals that evaluates and benchmarks key business functions to develop an integrated accounting, finance and human capital approach and build a resilient organization.</p>";
-										$imagepath = "assets/img/team/team_img04.jpg?id=sdf";
-									}
 									else if($teamid=="3")
 									{
 										$name = "Nitika bansal";

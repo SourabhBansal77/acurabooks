@@ -7,7 +7,7 @@
                             <div class="col-lg-4 col-md-7">
                                 <div class="footer-widget">
                                     <div class="fw-logo">
-                                        <a href="index.html"><img src="assets/img/logo/logo.png?id=234234" alt=""></a>
+                                        <a href="index.php"><img src="assets/img/logo/logo.png?id=234234" alt=""></a>
                                     </div>
                                     <div class="footer-content">
                                         <p>

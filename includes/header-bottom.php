@@ -116,7 +116,7 @@
                             <div class="menu-wrap">
                                 <nav class="menu-nav">
                                     <div class="logo">
-                                        <a href="index.html"><img src="assets/img/logo/logo.png?id=234234" alt="Logo"></a>
+                                        <a href="index.php"><img src="assets/img/logo/logo.png?id=234234" alt="Logo"></a>
                                     </div>
                                     <div class="navbar-wrap main-menu d-none d-lg-flex">
                                          <ul class="navigation">
@@ -228,7 +228,7 @@
                     <button><i class="far fa-window-close"></i></button>
                 </div>
                 <div class="logo-side mb-30">
-                    <a href="index.html"><img src="assets/img/logo/logo.png?id=234234" alt="Logo"></a>
+                    <a href="index.php"><img src="assets/img/logo/logo.png?id=234234" alt="Logo"></a>
                 </div>
                 <div class="side-info mb-30">
                     <div class="contact-list mb-30">
