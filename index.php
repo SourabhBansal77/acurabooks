@@ -64,11 +64,9 @@
                                     <div class="slider-content">
                                       
                                         <h2 class="title" data-animation="fadeInUp" data-delay=".4s" style='color:#fff'>
-										"Life is like riding a bicycle. To keep your balance, you must keep moving" 
+										"Manage your books the right way" 
 										</h2>
-                                        <p data-animation="fadeInUp" data-delay=".6s" style='color:#fff'>
-										-Albert Einstein
-										</p>
+                            
                                         <a href="services.php" class="btn" data-animation="fadeInUp" data-delay=".8s">Our Services</a>
                                     </div>
                                 </div>
@@ -99,53 +97,42 @@
             </section>
             <!-- slider-area-end -->
 
-            <!-- certifications-area -->
-            <section class="certifications-area pt-80 pb-80" style="background-color: #f8f9fa;">
+            <!-- about-area -->
+            <section class="about-area-three">
                 <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-8">
-                            <div class="section-title-two text-center mb-50 tg-heading-subheading animation-style3">
-                                <span class="sub-title">Our Certifications</span>
-                                <h2 class="title tg-element-title">Trusted & Certified Partners</h2>
-                                <p>We are certified professionals with expertise in leading accounting software and platforms</p>
+                    <div class="row align-items-center justify-content-center">
+                        <div class="col-lg-6 col-md-9">
+                            <div class="about-img-wrap-three">
+                                <img src="assets/img/images/h2_about_img01.jpg" alt="" data-aos="fade-down-right" data-aos-delay="0">
+                                <img src="assets/img/images/h2_about_img02.jpg" alt="" data-aos="fade-left" data-aos-delay="400">
                             </div>
                         </div>
-                    </div>
-                    <div class="row justify-content-center align-items-center">
-                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
-                            <div class="certification-item text-center">
-                                <img src="assets/img/images/Intuit Certified Level 1.jpeg" alt="Intuit Certified Level 1" class="certification-logo">
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
-                            <div class="certification-item text-center">
-                                <img src="assets/img/images/Intuit Cetified.jpeg" alt="Intuit Certified" class="certification-logo">
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
-                            <div class="certification-item text-center">
-                                <img src="assets/img/images/Intuit Trained.jpeg" alt="Intuit Trained Bookkeeper" class="certification-logo">
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
-                            <div class="certification-item text-center">
-                                <img src="assets/img/images/PowerBI.jpeg" alt="Power BI Certified" class="certification-logo">
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
-                            <div class="certification-item text-center">
-                                <img src="assets/img/images/Sage.jpeg" alt="Sage Certified" class="certification-logo">
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
-                            <div class="certification-item text-center">
-                                <img src="assets/img/images/Xero.jpeg" alt="Xero Certified" class="certification-logo">
+                        <div class="col-lg-6">
+                            <div class="about-content-three">
+                                <div class="section-title-two mb-20 tg-heading-subheading animation-style3">
+                                    <span class="sub-title">Get To know US</span>
+                                    <h2 class="title tg-element-title">Bookkeeping and Accounting Services For US Businesses</h2>
+                                </div>
+                                <p class="info-one">
+								Acura Books traces its origins back to India, where its roots were firmly established over three decades ago under the banner of our predecessor firm. As a dynamic business advisory entity, we pride ourselves on delving into your ambitions, objectives, and visions, aligning ourselves with your aspirations, and actively contributing to the realization of your dreams. We firmly believe that your triumphs become our triumphs, and your accomplishments resonate as ours.
+								</p>
+                                <div class="about-list-two">
+                                    <ul class="list-wrap">
+                                        <li><i class="fas fa-arrow-right"></i>100% Better results</li>
+                                        <li><i class="fas fa-arrow-right"></i>Professional Bookkeepers and Accountants</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="about-shape-wrap-two">
+                    <img src="assets/img/images/h2_about_shape01.png" alt="">
+                    <img src="assets/img/images/h2_about_shape02.png" alt="">
+                    <img src="assets/img/images/h2_about_shape03.png" alt="" data-aos="fade-left" data-aos-delay="500">
+                </div>
             </section>
-            <!-- certifications-area-end -->
+            <!-- about-area-end -->
 
             <!-- features-area -->
             <section class="features-area-two pt-80">
@@ -190,43 +177,6 @@
                 </div>
             </section>
             <!-- features-area-end -->
-
-            <!-- about-area -->
-            <section class="about-area-three">
-                <div class="container">
-                    <div class="row align-items-center justify-content-center">
-                        <div class="col-lg-6 col-md-9">
-                            <div class="about-img-wrap-three">
-                                <img src="assets/img/images/h2_about_img01.jpg" alt="" data-aos="fade-down-right" data-aos-delay="0">
-                                <img src="assets/img/images/h2_about_img02.jpg" alt="" data-aos="fade-left" data-aos-delay="400">
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="about-content-three">
-                                <div class="section-title-two mb-20 tg-heading-subheading animation-style3">
-                                    <span class="sub-title">Get To know US</span>
-                                    <h2 class="title tg-element-title">Bookkeeping and Accounting Services For US Businesses</h2>
-                                </div>
-                                <p class="info-one">
-								Acura Books traces its origins back to India, where its roots were firmly established over three decades ago under the banner of our predecessor firm. As a dynamic business advisory entity, we pride ourselves on delving into your ambitions, objectives, and visions, aligning ourselves with your aspirations, and actively contributing to the realization of your dreams. We firmly believe that your triumphs become our triumphs, and your accomplishments resonate as ours.
-								</p>
-                                <div class="about-list-two">
-                                    <ul class="list-wrap">
-                                        <li><i class="fas fa-arrow-right"></i>100% Better results</li>
-                                        <li><i class="fas fa-arrow-right"></i>Professional Bookkeepers and Accountants</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="about-shape-wrap-two">
-                    <img src="assets/img/images/h2_about_shape01.png" alt="">
-                    <img src="assets/img/images/h2_about_shape02.png" alt="">
-                    <img src="assets/img/images/h2_about_shape03.png" alt="" data-aos="fade-left" data-aos-delay="500">
-                </div>
-            </section>
-            <!-- about-area-end -->
 
          
 
@@ -529,6 +479,54 @@
                 </div>
             </section>
             <!-- blog-area-end -->
+
+            <!-- certifications-area -->
+            <section class="certifications-area pt-80 pb-80" style="background-color: #f8f9fa;">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="section-title-two text-center mb-50 tg-heading-subheading animation-style3">
+                                <span class="sub-title">Our Certifications</span>
+                                <h2 class="title tg-element-title">Trusted & Certified Partners</h2>
+                                <p>We are certified professionals with expertise in leading accounting software and platforms</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center align-items-center">
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
+                            <div class="certification-item text-center">
+                                <img src="assets/img/images/Intuit Certified Level 1.jpeg" alt="Intuit Certified Level 1" class="certification-logo">
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
+                            <div class="certification-item text-center">
+                                <img src="assets/img/images/Intuit Cetified.jpeg" alt="Intuit Certified" class="certification-logo">
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
+                            <div class="certification-item text-center">
+                                <img src="assets/img/images/Intuit Trained.jpeg" alt="Intuit Trained Bookkeeper" class="certification-logo">
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
+                            <div class="certification-item text-center">
+                                <img src="assets/img/images/PowerBI.jpeg" alt="Power BI Certified" class="certification-logo">
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
+                            <div class="certification-item text-center">
+                                <img src="assets/img/images/Sage.jpeg" alt="Sage Certified" class="certification-logo">
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-30">
+                            <div class="certification-item text-center">
+                                <img src="assets/img/images/Xero.jpeg" alt="Xero Certified" class="certification-logo">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- certifications-area-end -->
 
             <!-- request-area -->
             <section class="request-area-two">

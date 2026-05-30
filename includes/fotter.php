@@ -47,13 +47,8 @@
                                                     <div class="icon">
                                                         <i class="flaticon-clock"></i>
                                                     </div>
-                                                    <div class="content">
-                                                        <p>
-										3, Dharamkunj Apartments<br/>
-										Sector-9, Rohini<br/>
-										Delhi-110085
-														</p>
-                                                    </div>
+                                                    
+                                                 
                                                 </li>
                                             </ul>
                                         </div>

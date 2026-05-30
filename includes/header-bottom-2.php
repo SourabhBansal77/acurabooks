@@ -92,10 +92,6 @@
                         <div class="col-lg-7">
                             <div class="header-top-left">
             
-						<ul class="list-wrap">
-							<li><i class="flaticon-location"></i>3, Dharamkunj Apartments, Sector-9, Rohini, Delhi</li>
-							<li><i class="flaticon-mail"></i><a href="mailto:info@acurabooks.com">info@acurabooks.com</a></li>
-						</ul>
 			
                             </div>
                         </div>

@@ -86,16 +86,7 @@
                                     </ul>
                                 </div>
 
-                                <div class="contact-info-item">
-                                    <h5 class="title-two">Registered Address</h5>
-                                    <ul class="list-wrap">
-                                        <li>
-										3, Dharamkunj Apartments<br/>
-										Sector-9, Rohini<br/>
-										Delhi-110085
-										</li>
-                                    </ul>
-                                </div>
+                              
                              
 								
 								 <div class="contact-info-item">

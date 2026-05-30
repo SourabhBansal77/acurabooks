@@ -86,7 +86,6 @@
                             <div class="header-top-left">
 							
 			<ul class="list-wrap">
-				<li><i class="flaticon-location"></i>3, Dharamkunj Apartments, Sector-9, Rohini, Delhi</li>
 				<li><i class="flaticon-mail"></i><a href="mailto:info@acurabooks.com">info@acurabooks.com</a></li>
 			</ul>
 			
@@ -234,10 +233,6 @@
                     <div class="contact-list mb-30">
                         <h4>Registered Address</h4>
                         <p>Crown Heights <br/>3B/1 Twin Distt. Centre<br/> Sector-10, Rohini<br/> Delhi-110085</p>
-                    </div>
-					 <div class="contact-list mb-30">
-                        <h4>Corporate Address</h4>
-                        <p>3, Dharamkunj Apartments<br/> Sector-9, Rohini<br/> Delhi-110085</p>
                     </div>
                     <div class="contact-list mb-30">
                         <h4>Phone Number</h4>
