@@ -20,15 +20,7 @@
                                                         <i class="flaticon-phone-call"></i>
                                                     </div>
                                                     <div class="content">
-                                                        <a href="tel:919560166468">+91 9650493860, +91 7838365633</a>
-                                                    </div>
-                                                </li>
-												 <li>
-                                                    <div class="icon">
-                                                        <i class="flaticon-phone-call"></i>
-                                                    </div>
-                                                    <div class="content">
-                                                        <a href="tel:919650493860">+91 9650493860</a>
+                                                        <a href="tel:919650493860">+91 9650493860, +91 7838365633</a>
                                                     </div>
                                                 </li>
                                                 <li>
@@ -42,14 +34,6 @@
 										Delhi-110085
 														</p>
                                                     </div>
-                                                </li>
-												 <li>
-                                                    <div class="icon">
-                                                        <i class="flaticon-clock"></i>
-                                                    </div>
-                                                    
-                                                 
-                                                </li>
                                             </ul>
                                         </div>
                                     </div>
