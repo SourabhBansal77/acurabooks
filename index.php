@@ -48,6 +48,39 @@
 					max-height: 60px;
 					margin: 5px;
 				}
+
+				/* Hero video background */
+				.slider-area {
+					position: relative;
+					overflow: hidden;
+				}
+				.slider-bg-video {
+					position: absolute;
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 100%;
+					object-fit: cover;
+					z-index: 0;
+				}
+				.slider-area .slider-active {
+					position: relative;
+					z-index: 2;
+				}
+				.slider-area .single-slider.slider-bg {
+					background: transparent !important;
+				}
+				/* Dark overlay so text stays readable over the video */
+				.slider-area .single-slider.slider-bg::before {
+					content: "";
+					position: absolute;
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 100%;
+					background: rgba(0, 0, 0, 0.45);
+					z-index: -1;
+				}
 		</style>
 
         <!-- main-area -->
@@ -56,8 +89,11 @@
 		
                <!-- slider-area -->
             <section class="slider-area">
+                <video class="slider-bg-video" autoplay muted loop playsinline>
+                    <source src="assets/img/merged_acura_books_video.mp4" type="video/mp4">
+                </video>
                 <div class="slider-active">
-                    <div class="single-slider slider-bg" data-background="assets/img/banner/banner_bg.jpg?id=3434">
+                    <div class="single-slider slider-bg">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-6">
@@ -76,7 +112,7 @@
                             <img src="assets/img/banner/banner_shape.png" alt="" data-animation="zoomIn" data-delay=".8s">
                         </div>
                     </div>
-                    <div class="single-slider slider-bg" data-background="assets/img/banner/banner_bg02.jpg">
+                    <div class="single-slider slider-bg">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-6">
