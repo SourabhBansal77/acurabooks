@@ -20,7 +20,7 @@
                                                         <i class="flaticon-phone-call"></i>
                                                     </div>
                                                     <div class="content">
-                                                        <a href="tel:919560166468">+91 9560166468</a>
+                                                        <a href="tel:919560166468">+91 9650493860, +91 7838365633</a>
                                                     </div>
                                                 </li>
 												 <li>

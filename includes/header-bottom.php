@@ -149,7 +149,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <span>Call us</span>
-                                                    <a href="tel:919560166468">+91 9560166468</a>
+                                                    <a href="tel:919560166468">+91 9650493860, +91 7838365633</a>
                                                 </div>
                                             </li>
                                            <!-- <li class="header-search"><a href="#"><i class="flaticon-search"></i></a></li> -->
@@ -241,7 +241,7 @@
                     </div>
                     <div class="contact-list mb-30">
                         <h4>Phone Number</h4>
-                        <p>+91 9560166468, +91 9650493860</p>
+                        <p>+91 9650493860, +91 7838365633, +91 9650493860</p>
                     </div>
                     <div class="contact-list mb-30">
                         <h4>Email Address</h4>

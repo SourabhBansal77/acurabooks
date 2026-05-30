@@ -53,15 +53,15 @@
 									
 									if($teamid=="1")
 									{
-										$name = "Mahendra Kumar Gupta";
-										$desi = "Senior Partner";
-										$paragraph = "<p>Mahendra Kumar Gupta is a Chartered Accountant by profession and is the senior partner of Acura books. He has more than 30 years of experience in all phases of client service and accounting practices. He has served as the responsible partner in a variety of industries, including many which are deeply involved in multinational operations. He has lectured on accounting and management topics for various organizations in India.<br/>He has overseen every aspect of the firm’s business and is a member of the firm’s Executive management team where he works closely with other members of the firm’s Executive management team to develop strategy and set the direction for the firm’s future sustainability, growth and profitability.</p>";
-										$imagepath = "assets/img/team/default.jpg";
+										$name = "Atul Gupta";
+										$desi = "Director & Co-Founder";
+										$paragraph = "<p>Atul Gupta is a Chartered Accountant by profession and is the Director & Co-Founder of Acura books. He has more than 7 years of experience in all phases of client service and accounting practices. He has served as the responsible partner in a variety of industries, including many which are deeply involved in multinational operations. He has lectured on accounting and management topics for various organizations in India.<br/>He has overseen every aspect of the firm’s business and is a member of the firm’s Executive management team where he works closely with other members of the firm’s Executive management team to develop strategy and set the direction for the firm’s future sustainability, growth and profitability.</p>";
+										$imagepath = "assets/img/team/team_img04.jpg?id=sdf";
 									}
 									else if($teamid=="3")
 									{
-										$name = "Nitika bansal";
-										$desi = "Senior Audit Manager";
+										$name = "Nitika Bansal";
+										$desi = "Managing Partner";
 										$paragraph = "<p>She is a member of the Institute of Chartered Accountant of India having experience of more than 8 years post qualification. Her area of specialization is Statutory Audit, Internal Audit and MIS Reports which include preparation of monthly financial statements, inventory accounting and other planning for the clients. She has more than 3 years of international experience of working for India’s leading corporate bank. She plays a strategic role by providing professional services, aiming towards maximizing profitability for her clients and partnering in meeting the vision of the firm.</p>";
 										$imagepath = "assets/img/team/team_img03.jpg?id=sdf";
 									}

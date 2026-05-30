@@ -12,7 +12,7 @@
                         <div class="col-lg-3">
                          <h4><div class="icon"><i class="flaticon-phone-call"></i> Contact Us</div></h4>
 						 <p style="text-align: left;">
-							 +91 9560166468, 9650493860<br/>
+							 +91 9650493860, +91 7838365633, 9650493860<br/>
 							 info@acurabooks.com							
 						 </p>
                         </div>

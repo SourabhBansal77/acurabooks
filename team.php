@@ -66,11 +66,11 @@
 						<div class="col-xl-4 col-lg-4 col-md-6 col-sm-9">
                             <div class="team-item">
                                 <div class="team-thumb">
-                                    <img src="assets/img/team/default.jpg?id=sdf" alt="">
+                                    <img src="assets/img/team/team_img04.jpg?id=sdf" alt="">
                                 </div>
                                 <div class="team-content">
-                                    <h2 class="title"><a href="partners.php?teamid=1">Mahendra Kumar Gupta</a></h2>
-                                    <span>Senior Partner</span>
+                                    <h2 class="title"><a href="partners.php?teamid=1">Atul Gupta</a></h2>
+                                    <span>Director & Co-Founder</span>
                                 </div>
                             </div>
                         </div>
@@ -82,7 +82,7 @@
                                 </div>
                                 <div class="team-content">
                                     <h2 class="title"><a href="partners.php?teamid=3">Nitika Bansal</a></h2>
-                                    <span>Senior Audit Manager</span>
+                                    <span>Managing Partner</span>
                                 </div>
                             </div>
                         </div>

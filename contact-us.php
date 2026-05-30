@@ -101,7 +101,7 @@
 								 <div class="contact-info-item">
                                     <h5 class="title-two">Phone Number</h5>
                                     <ul class="list-wrap">
-                                        <li>+91 9560166468, 9650493860</li>
+                                        <li>+91 9650493860, +91 7838365633, 9650493860</li>
                                     </ul>
                                 </div>
 								
